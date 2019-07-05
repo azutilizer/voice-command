@@ -1,0 +1,6 @@
+Display name = Device 200;
+User = abc@gmail.com
+URL = 192.168.1.1/Api;
+Default layout = Office 202;
+Layout name list = Office 101, Office 202, office 303;
+Display name list = device 101, device 202, device 303;

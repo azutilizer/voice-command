@@ -1,0 +1,5 @@
+pocketsphinx
+pyaudio
+pyttsx3
+pywin32
+pypiwin32

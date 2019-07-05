@@ -1,0 +1,30 @@
+<kws_config>
+    <dnsname>
+        <dns address="luysennarak1993@gmail.com"></dns>
+    </dnsname>
+    <keywords>
+        <command name="five"></command>
+        <command name="voice on"></command>
+        <command name="voice off"></command>
+        <command name="what is your name"></command>
+        <command name="display name"></command>
+        <command name="your name"></command>
+        <command name="layout list"></command>
+        <command name="list of layout"></command>
+        <command name="list layout"></command>
+        <command name="layout name list"></command>
+        <command name="default layout"></command>
+        <command name="layout default"></command>
+        <command name="set default layout"></command>
+        <command name="set layout default"></command>
+        <command name="schedule now"></command>
+        <command name="now schedule"></command>
+        <command name="delete schedule all"></command>
+        <command name="schedule delete all"></command>
+        <command name="schedule event"></command>
+        <command name="event schedule"></command>
+        <command name="delete schedule event"></command>
+        <command name="change layout text"></command>
+        <command name="change text layout"></command>
+    </keywords>
+</kws_config>

@@ -1,0 +1,3 @@
+Mode = {greeting}; 
+Greeting = "Hallo Sir"
+Voice_no_match = "unknown words, repeat please"
